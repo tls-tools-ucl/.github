@@ -1,6 +1,6 @@
-## TLS tools from UCL
+## TLS tools from UCL Geography
 
-This is a central repository for tools developed for use with terrestrial LiDAR data by the geography group at UCL.
+This is a central repository for tools developed for use with terrestrial LiDAR data by UCL Geography.
 
 Contributors include:
 
