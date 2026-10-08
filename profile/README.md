@@ -4,13 +4,16 @@ This is a central repository for tools developed for use with terrestrial LiDAR 
 
 Contributors include:
 
-- [Andrew Burt](https://github.com/apburt)
-- Kim Calders
-- Cecilia Chavana-Bryant
-- Mathias Disney
-- [Matheus Boni Vicari](https://github.com/mattbv)
 - [Phil Wilkes](https://github.com/philwilkes)
 - [Wanxin Yang](https://github.com/wanxinyang)
+- [Andrew Burt](https://github.com/apburt)
+- [Matheus Boni Vicari](https://github.com/mattbv)
+- Mathias Disney
+- Kim Calders
+- Cecilia Chavana-Bryant
+
+
+
 
 Follow [@TLS_TREES](https://twitter.com/TLS_TREES) for updates and info
 
